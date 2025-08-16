@@ -1,0 +1,34 @@
+{
+  "botSettings": {
+    "botName": "Laylaa",
+    "author": "Laylaa",
+    "packname": "Yaemiko Bot",
+    "stickerAuthor": "Created by Layla",
+    "prefix": ".",
+    "timezone": "Asia/Jakarta",
+    "pairingMode": false
+  },
+  "ownerSettings": {
+    "owners": ["6287@s.whatsapp.net"],
+    "ownerName": "Laylaa-MD",
+    "ownerNumber": "628"
+  },
+  "adminSettings": {
+    "admins": []
+  },
+  "limitSettings": {
+    "dailyLimit": 50,
+    "premiumLimit": 999
+  },
+  "replyMessages": {
+    "ownerOnly": "❌ Perintah ini hanya untuk owner Layla!",
+    "adminOnly": "❌ Perintah ini hanya untuk admin!",
+    "groupOnly": "❌ Perintah ini hanya bisa digunakan di grup!",
+    "privateOnly": "❌ Perintah ini hanya bisa digunakan di chat pribadi!",
+    "premiumOnly": "❌ Perintah ini hanya untuk user premium!",
+    "botAdmin": "❌ Laylaa harus menjadi admin untuk menggunakan fitur ini!",
+    "cooldown": "⏰ Tunggu {cooldown} detik sebelum menggunakan perintah ini lagi!",
+    "limitReached": "📵 Limit harian Anda sudah habis! Limit: {limit}",
+    "error": "❌ Terjadi kesalahan saat menjalankan perintah!"
+  }
+}
